@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://raw.githubusercontent.com/wangqiusky/flowersea/config-respository
+          uri: https://github.com/wangqiusky/flowersea/config-respository
 
